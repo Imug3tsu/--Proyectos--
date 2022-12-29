@@ -1,5 +1,3 @@
 Hola Estos son algunos de los proyectos que he realizado.
-He realizado mas pero no es necesario sobrecargar mi repositorio con otros ejercicios.
+He realizado mas pero no es necesario sobrecargar mi repositorio con otros proyectos.
 GRACIAS!
-
-Contacto: imug3tsu555@gmail.com
